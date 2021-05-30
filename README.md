@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **SQL, PL/SQL.**
 
-- 📫 How to reach me **saiprasadmaharana822@gmail.com**
+- 📫 How to reach me **saiprasadmaharana82@gmail.com**
 
 - ⚡ Fun fact: **Coding will end the world 🤙🏻**
 
@@ -18,5 +18,5 @@
 
 ![](https://komarev.com/ghpvc/?username=saiprasadmaharana&color=ffb6c1)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprasadmaharana&show_icons=true&locale=en" alt="marisabrantley" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprasadmaharana&show_icons=true&locale=en" alt="saiprasadmaharana" /></p>
 
