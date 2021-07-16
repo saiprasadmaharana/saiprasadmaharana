@@ -1,4 +1,4 @@
-![GitHub Readme Profile Banner](https://1.bp.blogspot.com/-kam0Ed9R3ZQ/YLN4l2mVSbI/AAAAAAAAAa0/ZnL-xb8N6GcJTWE3Jb9ntHKaew_SEW92gCLcBGAsYHQ/s320/WhatsApp%2BImage%2B2021-05-30%2Bat%2B5.04.34%2BPM.jpeg width="100%")
+![GitHub Readme Profile Banner](https://c4.wallpaperflare.com/wallpaper/163/392/912/map-wold-map-technology-world-wallpaper-preview.jpg)
 <h2 align="center">Studying Web Development & Design. 🦄</h2>
 
 
