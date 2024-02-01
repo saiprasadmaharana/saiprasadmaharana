@@ -12,7 +12,7 @@
 - 🌱 Save Water, Save Tree  
   
 
-- ❓ Ask me about anything related to Django and Flask related technologies  
+- ❓ Ask me about anything related to DBMS and OS Subject
   
 
 - ⚡ Fun fact: I use tabs over spaces  
